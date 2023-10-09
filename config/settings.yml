@@ -1,5 +1,5 @@
-posting:
-  max_post_length:
+files:
+  max_attachment_size_kb:
     client: true
-    default: 32000
-    max: 150000
+    default: 4096
+    max: 409600
